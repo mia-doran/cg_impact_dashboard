@@ -1,0 +1,22 @@
+{
+  "registries": [
+    "docker.io",
+    "ghcr.io",
+    "quay.io",
+    "registry.gitlab.com",
+    "gcr.io",
+    "k8s.gcr.io",
+    "registry.k8s.io",
+    "us-docker.pkg.dev",
+    "public.ecr.aws",
+    "*.azurecr.io",
+    "registry.access.redhat.com",
+    "registry.redhat.io",
+    "registry.opensuse.org",
+    "docker.elastic.co",
+    "registry.debian.org",
+    "docker.io/bitnami",
+    "docker.io/hashicorp",
+    "docker.io/apache"
+  ]
+}
